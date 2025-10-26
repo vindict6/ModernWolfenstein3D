@@ -1,0 +1,15 @@
+1 - bo_firstaid
+5-bo_key4:
+6-bo_cross
+7-bo_chalice
+8-bo_bible
+9-bo_crown
+10-bo_clip
+11-bo_clip2
+12-bo_machinegun
+13-bo_chaingun
+14-bo_fullheal
+15-bo_food
+16-bo_alpo
+17-bo_gibs
+18-bo_spear
